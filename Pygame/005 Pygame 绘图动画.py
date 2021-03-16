@@ -3,7 +3,7 @@
 
 
 工作逻辑：
-利用for循环和pygame.display.update(),在使用矩形绘制直线的过程当中每绘制一条直线，就update一次。
+利用for循环和pygame.display.update(),在使用矩形绘制直线的过程当中每绘制一条直线就update一次。
 从而实现“逐帧”显示的效果，进而让我们觉得这是一个“动”的过程。
 
 
