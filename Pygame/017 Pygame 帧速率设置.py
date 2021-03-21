@@ -11,7 +11,7 @@ API：
 创建帧速率对象
 
 2.myclock.tick(FPS)
-设置刷新帧速率，帧率大，速度越快。一般放在display.update后面进行调用。
+设置刷新帧速率，帧速率大，移动就越流畅。一般放在display.update后面进行调用。
 FPS：填入刷新帧速率。   int
   
 """
