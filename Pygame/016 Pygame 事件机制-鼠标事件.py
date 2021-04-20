@@ -76,4 +76,3 @@ while True:
                 word_text("右键松开了")
             
             
-    
